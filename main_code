@@ -1,1 +1,5 @@
-Hola que tal
+from math import math
+
+def hola():
+    print('Hola')
+
